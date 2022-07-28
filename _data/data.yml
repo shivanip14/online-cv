@@ -100,9 +100,18 @@ skills:
     toolset:
       - name: Java x Spring
         level: 90%
-
+        
+      - name: Apache Kafka
+        level: 90%
+        
       - name: Javascript x Angular
         level: 85%
+        
+      - name: ElasticSearch
+        level: 80%
+        
+      - name: MongoDB
+        level: 80%
 
       - name: Python
         level: 75%
