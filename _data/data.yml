@@ -42,6 +42,7 @@ career-profile:
     title: Career Profile
     summary: |
       I'm a masters student at Universitat Politècnica de Catalunya in Artificial Intelligence (MAI, 2021-23), seeking an internship or full-time position in the field of ML/AI. Prior, I was a Senior Technology Analyst in one of the world's leading financial firms where I gained a strong knowledge of Angular and Spring framework and the Kafka messaging framework.
+
 education:
     - degree: MSc in Artificial Intelligence
       university: Universitat Politecnica de Catalunya
@@ -49,7 +50,7 @@ education:
       details: |
         Ongoing. Admission score 8.90 (top 15 percentile), current GPA 8.67
           - Subjects undertaken in the first semester were Human Language Technology, Computer Vision, Computational Intelligence, Planning and Approximate Reasoning, Multi-agent Systems, Machine Learning.
-          - Subjects undertaken in the second semester were todo.
+          - Subjects undertaken in the second semester were Advanced Topics in Computational Intelligence, Unsupervised and Reinforcement Learning, Human-Computer Interaction, Professional Practices in AI, Logics for AI, Minds, Brains & Machines, and AI Seminar.
     - degree: BTech in Computer Engineering
       university: Nirma University
       time: 2014 - 2018
@@ -63,6 +64,7 @@ education:
 
           - Flight Delay Prediction (Python with Django framework)
             Utilized real time metrics gathered from MLAT and ADS-B receivers around the world along with historical data to build and train ML models in order to predict flight arrival and departure delays.
+
 experiences:
     - role: Analyst
       time: Jun 2018 - Aug 2021
@@ -82,6 +84,15 @@ experiences:
       details: |
         Interned in the Private Wealth Management (PWM) division of GS (focusing on the EU financial legislative framework MiFID II) as a final year CS student, which ultimately resulted in a pre-placement offer as Analyst.
 
+awards:
+    Graduated 6th in a batch of 140 students (top 5% of class).
+    
+extracurriculars:
+    - company: Indian Institute of Management, Ahmedabad (IIM-A)
+      time: Feb 2016 - Mar 2016
+      details: |
+        Worked as a volunteer to improve implementation of and awareness about the RTE (Right to Education) Act of 2009, particularly to facilitate Section 12 - a mandated reservation of at least 25% of seats in private unaided primary schools for children belonging to economically weaker sections (EWS).
+
 skills:
     title: Skills &amp; Proficiency
 
@@ -94,6 +105,8 @@ skills:
 
       - name: Python
         level: 75%
+references:
+    Professional and/or academic references available upon request.
 
 footer: >
     Professional and/or academic references available upon request.
